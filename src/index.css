@@ -665,13 +665,12 @@ text-align: center;
 .row-first-child{
   height: 40px;
 }
-.Table-leave-history{
+.Table-leave-history {
   background-color: #fff;
-  margin-top: 70px;
   height: 650px;
   border-radius: 10px;
-  padding: 30px 25px 10px 25px;
-  box-shadow:  0 5px 10px 0 #90919B;
+  padding: 30px 25px 10px;
+  box-shadow: 0 5px 10px 0 #90919b;
   margin-bottom: 50px;
 }
 @media only screen and (max-width: 991px)  {
@@ -721,7 +720,6 @@ td:before {
 }
 .Table-leave-history {
   background-color: #fff;
-  margin-top: 70px;
   height: min-content;
   border-radius: 10px;
   padding: 30px 25px 10px 25px;
@@ -825,6 +823,7 @@ td:before {
   margin: auto 10px;
   width: 20px;
   height: 20px;
+  cursor: pointer;
 }
 .brand h1{
   font-size: 20px;
