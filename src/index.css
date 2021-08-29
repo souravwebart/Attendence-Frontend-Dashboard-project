@@ -96,7 +96,7 @@ input[type="file"] {
 .input-group:not(.has-validation)>.dropdown-toggle:nth-last-child(n+3), .input-group:not(.has-validation)>:not(:last-child):not(.dropdown-toggle):not(.dropdown-menu) {
   border-top-right-radius: 0;
   border-bottom-right-radius: 0;
-  width: 65%;
+  width: 60%;
   vertical-align: middle;
   text-align: left;
   letter-spacing: 0px;
