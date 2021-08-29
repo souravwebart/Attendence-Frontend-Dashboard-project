@@ -112,7 +112,7 @@ input[type="file"] {
 .left-bottom-box{
   background-color: #fff;
   margin-top: 30px;
-  height: 290px;
+  height: 335px;
   border-radius: 10px;
   padding: 30px 25px 10px 25px;
   box-shadow:  0 5px 10px 0 #90919B;
@@ -161,7 +161,7 @@ input[type="file"] {
 .topmiddlebox{
   background-color: #fff;
   margin-top: 45px;
-  height: 635px;
+  height: 680px;
   border-radius: 10px;
   padding: 30px 0px 10px 25px;
   box-shadow:  0 5px 10px 0 #90919B;
